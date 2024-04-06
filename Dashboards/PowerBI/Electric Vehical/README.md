@@ -1,4 +1,7 @@
 ## Dynamic Electric Vehicle Analysis Dashboards
+
+![Electric_vehical_Dashboard](https://github.com/Hemant190894/main/assets/145144520/a13d2aa7-bfef-4d7d-8c9e-70301e5d79a1)
+
 Welcome to my dynamic electric vehicle analysis dashboards! These interactive visualizations provide insights specifically tailored to the electric vehicle (EV) market, derived from comprehensive data analysis. Here's a brief overview of the key points covered in these dashboards:
 
 1) Total Electric Vehicle Count: Explore the overall number of electric vehicles included in the dataset, providing a comprehensive view of the EV market's size.
