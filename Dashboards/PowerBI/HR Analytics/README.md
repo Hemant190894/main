@@ -2,7 +2,8 @@
 
 Welcome to my Human Resources (HR) analytics dashboards! These interactive visualizations offer valuable insights into workforce dynamics, enabling HR managers and organizational leaders to make informed decisions. Here's a breakdown of the key metrics covered in these dashboards:
 
-![HR_Analytics](https://github.com/Hemant190894/main/assets/145144520/fecd43bb-c258-4175-bff0-60d249af1a70)
+![HR_Anlytics](https://github.com/Hemant190894/main/assets/145144520/653819cf-8bcb-463f-820c-773aa9408abd)
+)
 
 1. **Employee Count**: Get an overview of the total number of employees in the organization, providing insights into workforce size and scale.
 
