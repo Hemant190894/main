@@ -16,4 +16,4 @@ Welcome to the McDonald's profit and loss analysis dashboard! This interactive v
 
 6. **Sales by Country**: Understand sales distribution across different countries using an interactive map chart, providing insights into geographic revenue contribution and market penetration.
 
-This dynamic dashboard offers valuable insights into McDonald's financial performance, customer engagement, and market presence, empowering stakeholders to make data-driven decisions and drive strategic initiatives for sustainable growth.
+## This dynamic dashboard offers valuable insights into McDonald's financial performance, customer engagement, and market presence, empowering stakeholders to make data-driven decisions and drive strategic initiatives for sustainable growth.
