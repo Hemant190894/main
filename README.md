@@ -13,6 +13,6 @@ Connect with me on www.linkedin.com/in/hemant-dayma
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://public.tableau.com/app/profile/hemant.dayma/vizzes" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Tableau&logo=Tableau&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Tableau logo"  />
+    <img src="https://img.shields.io/static/v1?message=Tableau&logo=Tableau&label=&color=E4405F&logoColor=red&labelColor=&style=for-the-badge" height="25" alt="Tableau logo"  />
   </a>
 </div>
