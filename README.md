@@ -8,11 +8,11 @@ I am a data enthusiast with a passion for turning data into actionable insights.
 <div align="left">
   <a href="https://www.linkedin.com/in/hemant-dayma/" target="_blank" style="display: inline-block; margin-right: 10px;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" 
-      style="border-radius: 15 px;">
+      style="border-radius: 5 px;">
   </a>
   <a href="https://public.tableau.com/app/profile/hemant.dayma/vizzes" target="_blank" style="display: inline-block;">
     <img src="https://img.shields.io/static/v1?message=Tableau&logo=Tableau&label=&color=FFFFFF&logoColor=8B8000&labelColor=&style=for-the-badge" height="35" alt="Tableau logo" 
-      style="border-radius: 15 px;">
+      style="border-radius: 5 px;">
   </a>
 </div>
 
