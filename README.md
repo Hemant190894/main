@@ -5,3 +5,5 @@ Welcome to my data analysis portfolio! Here, you'll find a collection of project
 I am a data enthusiast with a passion for turning data into actionable insights. With a strong background in data analysis and visualization, I strive to deliver value-driven solutions to complex business challenges. Feel free to explore my projects and reach out if you have any questions or collaboration opportunities!
 
 Connect with me on www.linkedin.com/in/hemant-dayma
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/hemant-dayma)
