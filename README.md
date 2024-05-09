@@ -12,10 +12,7 @@ Connect with me on www.linkedin.com/in/hemant-dayma
   <a href="https://www.linkedin.com/in/hemant-dayma/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/aman_chowdhury_046/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://whatsapp.com/channel/9867211119" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=Whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  <a href="https://public.tableau.com/app/profile/hemant.dayma/vizzes" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Tableau&logo=Tableau&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Tableau logo"  />
   </a>
 </div>
