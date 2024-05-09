@@ -8,4 +8,4 @@ Connect with me on www.linkedin.com/in/hemant-dayma
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/hemant-dayma)
 
-<a href="https://www.linkedin.com/in/hemant-dayma/" target="_blank" style="display:inline-block; background-color:#0077B5; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Connect with me on LinkedIn</a>
+<a href="https://www.linkedin.com/in/hemant-dayma/" target="_blank" style="display:inline-block; background-color:#0077B5; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">LinkedIn</a>
