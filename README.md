@@ -11,7 +11,7 @@ I am a data enthusiast with a passion for turning data into actionable insights.
       style="border-radius: 15px;">
   </a>
   <a href="https://public.tableau.com/app/profile/hemant.dayma/vizzes" target="_blank" style="display: inline-block;">
-    <img src="https://img.shields.io/static/v1?message=Tableau&logo=Tableau&label=&color=FFFFFF&logoColor=1C4481&labelColor=&style=for-the-badge" height="35" alt="Tableau logo" 
+    <img src="https://img.shields.io/static/v1?message=Tableau&logo=Tableau&label=&color=FFFFFF&logoColor=8B8000&labelColor=&style=for-the-badge" height="35" alt="Tableau logo" 
       style="border-radius: 15px;">
   </a>
 </div>
