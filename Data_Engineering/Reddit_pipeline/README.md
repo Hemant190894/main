@@ -13,13 +13,13 @@
 ### The pipeline is designed to:
 
 1. Extract data from Reddit using its API.
-2. Store the raw data into an S3 bucket from Airflow.
+2. Store the raw data in an S3 bucket from Airflow.
 3. Transform the data using AWS Glue and Amazon Athena.
 4. Load the transformed data into Amazon Redshift for analytics and querying.
 
 # Architecture
 
-![alt text](Reddit_dataengineering.png)
+![Reddit_dataengineering](https://github.com/user-attachments/assets/03943ec4-8ccc-4dee-a85d-e3d4fbe67bf2)
 
 1. Reddit API: Source of the data.
 2. Apache Airflow & Celery: Orchestrates the ETL process and manages task distribution.
