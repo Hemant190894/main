@@ -22,6 +22,3 @@ I am a data enthusiast with a passion for turning data into actionable insights.
 
 
 
-
-
-
