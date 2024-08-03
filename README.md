@@ -4,4 +4,21 @@ Welcome to my data analysis portfolio! Here, you'll find a collection of project
 ## About Me
 I am a data enthusiast with a passion for turning data into actionable insights. With a strong background in data analysis and visualization, I strive to deliver value-driven solutions to complex business challenges. Feel free to explore my projects and reach out if you have any questions or collaboration opportunities!
 
-Connect with me on www.linkedin.com/in/hemant-dayma | Follow me on Twitter
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/hemant-dayma/" target="_blank" style="display: inline-block; margin-right: 10px;">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" 
+      style="border-radius: 20px;">
+  </a>
+  <a href="https://public.tableau.com/app/profile/hemant.dayma/vizzes" target="_blank" style="display: inline-block;">
+    <img src="https://img.shields.io/static/v1?message=Tableau&logo=Tableau&label=&color=FFFFFF&logoColor=8B8000&labelColor=&style=for-the-badge" height="35" alt="Tableau logo" 
+      style="border-radius: 20px;">
+  </a>
+</div>
+
+
+
+
+
+
+
