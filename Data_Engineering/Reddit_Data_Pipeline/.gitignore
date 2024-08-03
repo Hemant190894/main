@@ -1,8 +1,0 @@
-venv
-.venv_DE
-.my_new_DE
-*.conf
-logs
-.idea
-__pycache__
-.csv
